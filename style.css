@@ -28,6 +28,18 @@ header{
 list-style-position:inside;
 }
 
-listas2{
+.listas2{
     font-size: 50px;
+    text-align: center;
+    list-style:nome;
+}
+
+.inicio{
+    padding: 20px;
+    background-color: black;
+    border-bottom: 5px solid white;
+    font-size: 50px;
+    color:white;
+    display: flex;
+    justify-content: space-around;
 }
